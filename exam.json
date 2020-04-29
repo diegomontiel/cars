@@ -1,12 +1,14 @@
-{
-    "modelo": "Ford Fiesta",
-    "ano": 2007,
-}
-{
-    "modelo": "VW Jetta",
-    "ano": 2012,
-}
-{
-    "modelo": "KIA Sportage",
-    "ano": 2018,
-}
+[
+   {
+      "modelo":"Ford Fiesta",
+      "ano":2007
+   },
+   {
+      "modelo":"VW Jetta",
+      "ano":2012
+   },
+   {
+      "modelo":"KIA Sportage",
+      "ano":2018
+   }
+]
